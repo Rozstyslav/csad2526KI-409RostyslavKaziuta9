@@ -1,0 +1,3 @@
+C:/Users/Admin/source/repos/Project2/Project1/Project1/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
+C:/Users/Admin/source/repos/Project2/Project1/Project1/build/_deps/googletest-subbuild/CMakeFiles/ALL_BUILD.dir
+C:/Users/Admin/source/repos/Project2/Project1/Project1/build/_deps/googletest-subbuild/CMakeFiles/ZERO_CHECK.dir
