@@ -42,7 +42,7 @@ if(BUILD_TESTS)
   FetchContent_MakeAvailable(googletest)
 
   add_executable(unit_tests
-    unit_tests.cpp
+    tests/unit_tests.cpp
   )
   target_link_libraries(unit_tests
     PRIVATE gtest_main math_operations
